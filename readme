@@ -1,0 +1,25 @@
+# House Building GUI
+
+## Author
+Jeremiah E. Ochepo
+
+## Last Edited
+3/3/2020 (10PM)
+
+## Description
+This program creates a simple GUI for building a house. It allows the user to draw rectangles for the walls, triangles for the roof, rectangles for windows, and rectangles for the front door. Each shape can be filled with different colors.
+
+## How to Use
+1. Run the program (building_house_gui).
+2. Click to define the corners of the rectangle, triangle, window, or front door.
+3. Follow the instructions on the window.
+4. Click any point to close the program.
+
+## Dependencies
+- This program uses the 'graphics' library.
+
+## Notes
+- The program may need modification based on specific requirements.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
